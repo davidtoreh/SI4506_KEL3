@@ -20,4 +20,7 @@ Bertualang dengan cerita kita
 Bersamamu, kita akan berbagi semua
 Segala baik dan buruk diriku
 
+<<<<<<< HEAD
 indra jegel
+=======
+>>>>>>> 1984ef1babd5e6c0751fd9464406a9dbfc15535d
